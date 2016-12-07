@@ -1,4 +1,26 @@
 *.class
+*.war
+*.ear
+.svn
+.svn/*
+*.svn
+.DS_Store
+*.bak
+*~
+.gitignore
+.idea
+.idea/*
+*.iml
+.iml
+.classpath
+.project
+.settings
+logs
+logs/*
+tmp
+tmp/*
+.history
+*.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
